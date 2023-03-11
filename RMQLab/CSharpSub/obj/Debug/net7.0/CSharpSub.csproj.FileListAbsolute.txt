@@ -1,0 +1,17 @@
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/bin/Debug/net7.0/CSharpSub
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/bin/Debug/net7.0/CSharpSub.deps.json
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/bin/Debug/net7.0/CSharpSub.runtimeconfig.json
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/bin/Debug/net7.0/CSharpSub.dll
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/bin/Debug/net7.0/CSharpSub.pdb
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.csproj.AssemblyReference.cache
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.GeneratedMSBuildEditorConfig.editorconfig
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.AssemblyInfoInputs.cache
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.AssemblyInfo.cs
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.csproj.CoreCompileInputs.cache
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.csproj.CopyComplete
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.dll
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/refint/CSharpSub.dll
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.pdb
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/CSharpSub.genruntimeconfig.cache
+/home/atenghamn/JS_testprojekt/RabbitMQPlayground/RMQLab/CSharpSub/obj/Debug/net7.0/ref/CSharpSub.dll
